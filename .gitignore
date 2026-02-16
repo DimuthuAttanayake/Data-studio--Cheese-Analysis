@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files over 100MB
+# GroceryDB_foods.csv is 11MB so it's fine, but add large files here if needed
+# *.csv
