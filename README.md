@@ -14,7 +14,7 @@ This project analyses how cheese prices differ between Walmart and Whole Foods, 
 * Filtered the dataset to include only cheese products
 * Categorised products into 16 cheese types (Cheddar, Mozzarella, Parmesan, Gouda, etc.) by keyword matching on product names
 * Removed uncategorised products and NAs
-* Filtered to Walmart and Whole Foods only (880 products)
+* Filtered to Walmart and Whole Foods only
 
 ### Analysis
 
